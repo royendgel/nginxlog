@@ -1,0 +1,6 @@
+[package]
+name = "nglog"
+version = "0.1.0"
+authors = ["Royendgel Silberie <royendgel@gmail.com>"]
+
+[dependencies]
