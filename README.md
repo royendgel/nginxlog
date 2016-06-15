@@ -34,3 +34,7 @@ Rust is a low level programming language that means it is fast (some claims fast
 I have plan to migrate some heavy code that is written in Python on cambackup.com to Rust.
 
 Rust = Faster + less resource usage
+
+####TODO :
+- Make postgres work
+- Environment variable for postgres
